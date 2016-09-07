@@ -58,7 +58,7 @@ textarea {
 
 body{
     background-color: #171714;
-    transition: background-color 0.2s;
+    transition: background-color 1s;
 }
 
 
@@ -122,7 +122,6 @@ body{
 .deg300 { transform: rotate(300deg) translate(130px) rotate(-300deg); }
 .deg330 { transform: rotate(330deg) translate(130px) rotate(-330deg); }
 
-
 #facebook{ background-color: #3E5B98; }
 #email{ background-color: #0072C6; }
 #trakttv{ background-color: #ED2224; }
@@ -136,10 +135,30 @@ body{
 #steam{ background-color: #171A21; }
 #twitchtv{ background-color: #6441A5; }
 
+footer{
+    position:absolute;
+    width:100%;
+    bottom:0px;
+    color: rgba(255, 255, 255, 0.1);
+    font-size: 0.9rem;
+}
 
+footer .left{
+    float: left;
+    padding: 0px 0px 2px 4px; 
+    text-align: left;
+}
 
+footer .right{
+    float: right;
+    padding: 0px 2px 4px 0px;
+    text-align: right;
+}
 
-
+footer a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.2);
+}
 
 /* ==========================================================================
    Media Queries
