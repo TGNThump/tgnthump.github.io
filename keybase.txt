@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/thump
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pilgrim.me.uk
+  * I am thump (https://keybase.io/thump) on keybase.
+  * I have a public key with fingerprint EFBD EC0B E492 80FF D7D2  FEA1 601F FF2B 6F09 CF1B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d9f0c7e2f6c4d42fdc06b19e2995fda9c751b19a9e0e2180290f46a7463604f40a",
+            "fingerprint": "efbdec0be49280ffd7d2fea1601fff2b6f09cf1b",
+            "host": "keybase.io",
+            "key_id": "601fff2b6f09cf1b",
+            "kid": "0101d9f0c7e2f6c4d42fdc06b19e2995fda9c751b19a9e0e2180290f46a7463604f40a",
+            "uid": "1b59efc442ea4d470bf1a3ac40569f19",
+            "username": "thump"
+        },
+        "service": {
+            "hostname": "pilgrim.me.uk",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473290486,
+    "expire_in": 157680000,
+    "prev": "d9b93b8b4d7090eec7ab9eec540427a1bc8a4700c990f5c81d017752743b7854",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJbSBRRGF4zW9wStoTsRtbQBUztzOyZmT0L3R8rlRSVbsucm07qzjY7
+q1mpSFEUaFAkEdjlQQqkgoiiF2+VlGJmRfRgRcXSxShCzIxuZ6Teeuy8/Jz//77v
+/7+f/3ZasseXxA6XLv3UPmckqb+7Je4peXDuyz4JW7RWCu2TKthkYJWUxZxwhUml
+kARkIFPEAdGZwjUCKVQ4JUDDMmIKQiqnBiK6Kou/gRhgihwECgIcaoYOtYAGIIfA
+kLIlbkbKmB21zYgjZBnHlBGAGURKEHBOdapwZsgakDnnCtY4QITLWBDLrZjLEMNh
+I8ZyTUvkxCc8Od4/8P957viknIxVxDiBUGGG0NIB5rIRMAgEqoa4jFxgjNkRo4oJ
+tFMer4pKddmSSFWbhLlbdW38KUfNyjLbrMqtYrnxCsGM2pZjEatSlModJxoLuVSn
+NupiaxgO/1EJYzNCxRYFo5rZMdOKSCFZIIljurIy1APCAQxq2RLbEzVtFjZdhKpr
+QSCe24dVC0mKMArgIIZUBwgwRnQDIxFUCKCiGzImQUM4BASJfagkKFMg67qq6DCA
+9aAKJdfX7ogltEUrxygTmjGzLGI4cZtJdT1d26d6knyeaSlT3PPy+FL9f49umHi/
++8ZH73sid2/kV7ex2KL2ryu+jo0tmettSs//NkLP159t3ZBGZz2foRQXbe4r/N6Y
+OFWa35B6+TAvPVr37EQzufzj6emk2v7pXu9rv9n65OW69Hc9yRMHSqdvzetMXK9P
+7PTPv/iw1b9q98B4Y4vys624e4Hy8XjnuYLkXYsylufkLby+7detqY0bH2Wkallt
+K/fmvTnYEd/ycZ0xOLt3x7XAoYHMGnvZ6GAOzuhoWrh44krxwWhh54eSxJmSm7jl
+5ItVXe0/867eW5PyaW2mb8GrGZf8R+44+wuHhvEEelzQm//+wudG+g2u35SC/TMl
+FR85FggNqXvf9oxaWQ3zilY39/0GztpBKQ==
+=90Nu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thump
+
+==================================================================
